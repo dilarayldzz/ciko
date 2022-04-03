@@ -20,4 +20,8 @@ public class FirstClass {
         return newstr;
     }
 
+    public static void adnan (){
+        System.out.println("adnan");
+    }
+
 }
