@@ -23,6 +23,7 @@ public class FirstClass {
     public static void adnan (){
         System.out.println("adnan");
     }
+    //change from dilara
 
 
     //changes from adnan
